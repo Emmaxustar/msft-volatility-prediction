@@ -28,5 +28,8 @@ The project predicts three volatility horizons:
 
 Install dependencies:
 
-```bash
-pip install -r requirements.txt
+pandas
+numpy
+matplotlib
+yfinance
+scikit-learn
